@@ -1,0 +1,8 @@
+# Node modules directory
+node_modules/
+
+# Lock files
+package-lock.json
+
+#csv Files
+*.csv
