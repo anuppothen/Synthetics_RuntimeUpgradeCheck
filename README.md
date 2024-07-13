@@ -7,7 +7,7 @@ Along with performing the validation, the script also checks the success rate of
 This allows the user to identify synthetic monitors that have been consistently failing, so that these monitors can be assessed and disabled if they are not required any more.  
 This script iis written in nodejs and can be executed as below 
 
-1. Install all the dependency package using the npm install command
+1. Install all the dependency package using the npm install command  
 ```npm install```
 
 2. Run the script using the command below. Make sure to provide the User API Key in the command line. 
